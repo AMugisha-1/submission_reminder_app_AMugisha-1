@@ -1,0 +1,6 @@
+student, assignment, submission status
+Alice,CS101,submitted
+Bob,CS102,not submitted
+Charlie,CS103,submitted
+David,CS104,not submitted
+Eva,CS105,submitted
