@@ -1,1 +1,1 @@
-# submission_reminder_app_AMugisha-1
+# shell_scripting_lab
